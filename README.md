@@ -15,6 +15,8 @@
 专注于人工智能 / 机器学习 / 深度学习 / 自动化爬虫。致力于通过数据驱动与模型优化将 AI 技术落地，简化复杂问题并创造实际价值。  
 "We're making the world a better place — by constructing elegant hierarchies for maximum code reuse and extensibility."
 
+> "Make practical AI: robust, reusable, and efficient."
+
 ---
 
 <!-- 两列布局：简介 + 统计 -->
@@ -30,7 +32,6 @@
 - 爱好：编程 · 阅读论文 · 健身 · 旅行
 
 I focus on building robust, reusable ML systems that turn research into production-ready solutions.
-
 
 ---
 

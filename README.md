@@ -1,5 +1,12 @@
 ## Hi there 👋
+🤺 About Me
 
+  嗨，我是Cx330xu。热爱编程、读书、健身、旅行。
+  
+
+  我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
+
+  We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.
 <!--
 **Cx330xu/Cx330xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

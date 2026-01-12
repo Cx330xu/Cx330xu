@@ -29,7 +29,7 @@
 - 职位：**算法工程师 / 人工智能开发者**  
 - 研究方向：计算机视觉 (CV) · 自然语言处理 (NLP) · 大模型微调 · 强化学习 · 推荐系统  
 - 当前在学：强化学习 · 可解释 AI · 分布式训练  
-- 爱好：编程 · 阅读论文 · 健身 · 旅行
+- 爱好：编程 · 摄影 · 旅行
 
 I focus on building robust, reusable ML systems that turn research into production-ready solutions.
 
@@ -71,7 +71,7 @@ I focus on building robust, reusable ML systems that turn research into producti
 
 ## 🗂 项目经历（已脱敏）
 > 下列条目已移除或泛化可能的敏感信息，仅保留职责与成果用于公开展示。
-### 2025.07 — 至今 
+### 2025.07 — 至今..
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91ing...)](https://git.io/typing-svg)
 
 ---

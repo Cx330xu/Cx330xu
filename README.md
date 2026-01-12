@@ -1,3 +1,13 @@
+<div align="center">
+<!-- 顶部图片（暗/亮色模式切换） -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" alt="coding" />
+</picture>
+
+<div>&nbsp;</div>
+
 # 👋 Hi there, I'm Cx330xu — 人工智能开发者
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=560&lines=%E5%97%A8%EF%BC%8C%E6%88%91%E6%98%AFCx330xu%E3%80%82;%E7%83%AD%E7%88%B1%E7%BC%96%E7%A8%8B%E3%80%81%E5%96%9C%E6%AC%A2%E6%91%84%E5%BD%B1%E5%92%8C%E6%97%85%E8%A1%8C%E3%80%82;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81)](https://git.io/typing-svg)
@@ -24,7 +34,7 @@ I focus on building robust, reusable ML systems that turn research into producti
 
 ---
 
-## 🧰 技术栈 & 工具（可视化徽章）
+## 🧰 技术栈 & 工具
 - 语言 & 框架  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
@@ -48,7 +58,7 @@ I focus on building robust, reusable ML systems that turn research into producti
 
 ---
 
-## 🚀 项目亮点（Selected Projects）
+## 🚀 项目亮点
 
 | 项目 | 简介 | 技术 & 亮点 |
 |---|---:|---|
@@ -90,6 +100,15 @@ I focus on building robust, reusable ML systems that turn research into producti
 ---
 
 ## 📫 联系 & 社交
-- Email：cx330xu@qq.com  
-- GitHub：[@Cx330xu](https://github.com/Cx330xu)  
-- CSDN 博客：[Xu_youyaxianshen](https://blog.csdn.net/Xu_youyaxianshen?spm=1000.2115.3001.5343)
+<!-- 三项并排：Email（mailto）+ 博客徽章 + 访问量统计 -->
+<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-top:8px;">
+  <a href="mailto:cx330xu@qq.com" target="_blank" rel="noopener noreferrer" title="Send email">
+    <img src="https://img.shields.io/badge/Email-cx330xu%40qq.com-0078D4?logo=gmail&logoColor=white" alt="Email: cx330xu@qq.com" />
+  </a>
+
+  <a href="https://blog.csdn.net/Xu_youyaxianshen?spm=1000.2115.3001.5343" target="_blank" rel="noopener noreferrer" title="CSDN 博客">
+    <img src="https://img.shields.io/badge/CSDN-博客-8c36db" alt="CSDN 博客" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Cx330xu&label=Views&color=orange&style=flat" alt="访问量统计" title="Profile views" />
+</div>
